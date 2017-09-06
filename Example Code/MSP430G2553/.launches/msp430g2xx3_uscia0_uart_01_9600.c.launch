@@ -5,7 +5,7 @@
 <stringAttribute key="com.ti.ccstudio.debug.debugModel.ATTR_PROGRAM.TI MSP430 USB1/MSP430" value="${build_artifact:msp430g2xx3_uscia0_uart_01_9600.c}"/>
 <stringAttribute key="com.ti.ccstudio.debug.debugModel.ATTR_PROJECT.TI MSP430 USB1/MSP430" value="msp430g2xx3_uscia0_uart_01_9600.c"/>
 <stringAttribute key="com.ti.ccstudio.debug.debugModel.ATTR_TARGET_CONFIG" value="${target_config_active_default:msp430g2xx3_uscia0_uart_01_9600.c}"/>
-<stringAttribute key="com.ti.ccstudio.debug.debugModel.MRU_PROGRAM.TI MSP430 USB1/MSP430" value="C:/Users\Russty\workspace_v7\msp430g2xx3_uscia0_uart_01_9600.c\Debug\msp430g2xx3_uscia0_uart_01_9600.c.out"/>
+<stringAttribute key="com.ti.ccstudio.debug.debugModel.MRU_PROGRAM.TI MSP430 USB1/MSP430" value="C:/Users\Jake\Documents\GitHub\lab-1-intro-to-git-c-and-msp430-jrepifano\Example Code\MSP430G2553\Debug\msp430g2xx3_uscia0_uart_01_9600.c.out"/>
 <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
 <listEntry value="/msp430g2xx3_uscia0_uart_01_9600.c"/>
 </listAttribute>
